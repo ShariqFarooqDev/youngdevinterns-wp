@@ -1,0 +1,62 @@
+# WordPress Core Files
+app/public/wp-admin/
+app/public/wp-includes/
+app/public/index.php
+app/public/license.txt
+app/public/readme.html
+app/public/wp-*.php
+app/public/xmlrpc.php
+
+# WordPress Configuration
+app/public/wp-config.php
+app/public/.htaccess
+
+# Default Themes (Keep custom themes)
+app/public/wp-content/themes/twentytwenty*/
+
+# Uploads (Keep for documentation but can be large)
+# app/public/wp-content/uploads/
+
+# Plugins (Document separately, exclude actual files)
+# app/public/wp-content/plugins/
+
+# Cache and Temporary Files
+app/public/wp-content/cache/
+app/public/wp-content/upgrade/
+*.log
+
+# Database Files
+app/sql/local.sql
+
+# Server Configuration
+conf/
+logs/
+
+# Local Environment
+*.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node Modules (if using build tools)
+node_modules/
+package-lock.json
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
