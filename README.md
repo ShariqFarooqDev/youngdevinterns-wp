@@ -2,7 +2,7 @@
 
 A comprehensive WordPress development project showcasing custom theme development, custom post types, and e-commerce integration.
 
-![WordPress](https://img.shields.io/badge/WordPress-6.4-blue)
+![WordPress](https://img.shields.io/badge/WordPress-6.8-blue)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-8.0-purple)
 ![PHP](https://img.shields.io/badge/PHP-8.0-777BB4)
 ![License](https://img.shields.io/badge/License-MIT-green)
